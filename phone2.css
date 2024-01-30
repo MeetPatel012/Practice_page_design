@@ -1,0 +1,324 @@
+.container {
+    margin: 0 auto;
+    padding: 0px 14px 0 14px
+}
+/* 
+.container {
+    margin: 0 auto;
+    padding: 0px 10px 0 10px;
+} */
+
+
+/* Menu section */
+
+
+/* Navbar Section */
+
+.nav-right-section {
+    margin-left: 21.6rem;
+}
+
+/* title of dashboard */
+
+.ecom-heading {
+    margin-left: 7px;
+}
+
+.btn-right {
+    margin-left: 38rem;
+}
+
+.hed {
+    text-wrap: nowrap;
+}
+
+.gry {
+    width: 100px;
+    height: 31px;
+}
+
+.ecom-heading {
+    justify-content: unset;
+}
+
+
+
+/* first section */
+
+.rightside {
+    margin-left: 0;
+    width: 31rem;
+    height: 28rem;
+}
+
+.leftside-first {
+    width: 33rem;
+}
+
+.align-item img {
+    margin-left: -14px;
+    margin-right: -16px;
+}
+
+.dot-div3 {
+    margin-left: 16rem;
+}
+
+/* second section */
+.second-sec .sec-div ul li {
+    margin: 8px;
+}
+
+.left-responseive {
+    width: 33rem;
+}
+
+.right-responseive {
+    width: 31rem;
+}
+
+.heading-third {
+    text-wrap: nowrap;
+}
+
+.dot-div4 {
+    margin-left: 17.5rem;
+}
+
+.dot-div2 {
+    margin-left: 12rem;
+}
+
+.dflex {
+    margin: 0px;
+}
+
+.l1 {
+    margin-left: 28px;
+}
+
+.l4 {
+    margin-left: 48px;
+}
+
+.l-response {
+    margin-left: -1.5rem;
+}
+
+.second-sec .sec-div ul li {
+    margin: 5px;
+    padding: 8px;
+}
+
+.second-sec .sec-div ul li img {
+    margin: 10px;
+    margin-bottom: 0px;
+}
+
+.l-response {}
+
+.second-sec .container ul {
+    letter-spacing: 0;
+}
+
+
+/* third section */
+
+.size-head {
+    text-wrap: nowrap;
+    margin-left: 11px;
+
+}
+
+.margin-forright {
+    padding: 2rem;
+}
+
+
+.third-shadow-left {
+    width: 14rem;
+    height: 36rem;
+}
+
+element.style {
+    font-size: 25px;
+}
+
+.p-align2 {
+    margin-left: 1.5rem;
+}
+
+.leftside-box {
+    width: 13rem;
+}
+
+.rightside-box {
+    width: 50.2rem;
+}
+
+.third-img {
+    margin-top: 2rem;
+    width: 12rem;
+}
+
+.p-align {
+    margin-left: 1.5rem;
+    font-size: 22px;
+}
+
+
+.margin-forright {
+    padding: 1rem;
+}
+
+.margin-forright {
+    margin: 3px;
+    margin-top: 37px;
+}
+
+.createspace {
+    margin-left: 2rem;
+}
+
+.left-ol-first {
+    margin-left: 17px;
+}
+
+
+.margin-top {
+    display: block;
+    margin-top: 4rem;
+}
+
+.btn2 {
+    margin-left: 4em;
+}
+
+.btn3 {
+    margin-left: 4em;
+    margin-top: 2rem;
+}
+
+.margin-forright {
+    margin: 10px;
+}
+
+.createspace6 {
+    margin-left: 2rem;
+}
+
+.f-response {
+    width: 84px;
+    height: 27px;
+    text-wrap: nowrap;
+    font-size: 11px;
+}
+
+.pp {
+    font-size: 12px;
+}
+
+.text-t {
+    text-align: center;
+    text-wrap: nowrap;
+
+}
+
+/* fourth section */
+
+
+.console p {
+    text-wrap: nowrap;
+}
+
+.dage {
+    margin-top: 25px;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 203px;
+    padding: 9px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 0.3rem;
+    border: 1px dashed #D3D3D3;
+}
+
+.dot-div {
+    margin-left: 17px;
+}
+
+.dot-btn {
+    margin-left: 1px;
+}
+
+.little2 {
+    margin-left: 36px;
+}
+
+.little {
+    margin-left: 36px;
+}
+
+.little3 {
+    margin-left: 36px;
+}
+
+footer {
+    display: flex;
+    justify-content: unset;
+    margin: 0px;
+}
+
+.footer-left {
+    text-wrap: nowrap;
+    margin-left: 2rem;
+}
+
+
+.footer-right {
+    text-wrap: nowrap;
+    margin-left: 42rem;
+}
+
+
+/* Table Responsive */
+table {
+    border-spacing: 0px;
+}
+.table2 th,td{
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-left: 32px;
+    padding-right: 21.5px;
+    text-wrap: nowrap;
+}
+
+th, td {
+    padding-top: 10px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 16.5px;
+    text-wrap: nowrap;
+}
+
+#check-right-responsive {
+    display: none;
+}
+
+.open-menu,
+.close-menu {
+    display: none;
+}
+
+.div-nav {
+    gap: 31px;
+    margin-top: 3px;
+}
+
+.c1 {
+    text-wrap: nowrap;
+}
+
+.avg-p {
+    margin-left: 0;
+}
